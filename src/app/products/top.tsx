@@ -55,7 +55,7 @@ let product:Iporducts[] = [
 export default function Top_sell() {
   return(  
     <div className="w-full h-full sm:h-[500px] mt-10 max-w-screen-2xl mx-auto">
-      <h1 className="text-3xl md: text4xl font-bold text-center">SELLING</h1>
+      <h1 className="text-3xl md: text4xl font-bold text-center"> TOP SELLING</h1>
       <div className="flex flex-col md:flex-row justify-center items-center md:justify-between px-8 mt-10">
         {
           product.map((data)=>{
