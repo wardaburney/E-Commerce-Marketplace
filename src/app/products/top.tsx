@@ -15,14 +15,14 @@ let product:Iporducts[] = [
     {
         title:"VERTICAL STRIPED SHIRT",
         id:5,
-        price:"$19000",
+        price:"$190",
         img_url:"/product5.svg"
     },
 
     {
         title:"COURAGE GRAPHIC T-SHIRT",
         id:6,
-        price:"$23000",
+        price:"$230",
         img_url:"/product6.svg",
         old_price:"$125000"
     },
@@ -31,14 +31,14 @@ let product:Iporducts[] = [
     
         title:"LOOSE FIT BERMUDA SHORTS",
         id:7,
-        price:"$25000",
+        price:"$250",
         img_url:"/product7.svg"
     },
 
     {
         title:"FADED SKINNY JEANS",
         id:8,
-        price:"$80000",
+        price:"$80",
         img_url:"/product8.svg"
     }
   ]
