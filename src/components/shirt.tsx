@@ -16,21 +16,21 @@ let product:Iporducts[] = [
   {
         title:"T-SHIRT WITH TAPE DETAILS",
         id:1,
-        price:"$12000",
+        price:"$120",
         img_url:"/product1.svg"
     },
     {
     
         title:"CHECKERED SHIRT",
         id:2,
-        price:"$13000",
+        price:"$130",
         img_url:"/product3.svg"
     },
 
     {
         title:"SLEEVE STRIPED T-SHIRT",
         id:3,
-        price:"$11000",
+        price:"$110",
         img_url:"/product4.svg",
         old_price:"$13000" 
     },
@@ -38,47 +38,47 @@ let product:Iporducts[] = [
     {
         title:"SKINNY FIT JEANS",
         id:4,
-        price:"$14000",
+        price:"$140",
         img_url:"/detail2.svg",
-        old_price:"$900000"
+        old_price:"$900"
     },
     
     {
     
         title:"CHECKERED SHIRT",
         id:5,
-        price:"$13000",
+        price:"$1300",
         img_url:"/product2.svg"
     },
 
     {
         title:"SLEEVE STRIPED T-SHIRT",
         id:6,
-        price:"$11000",
+        price:"$110",
         img_url:"/product1.svg",
-        old_price:"$13000" 
+        old_price:"$130" 
     },
     {
         title:"SLEEVE STRIPED T-SHIRT",
         id:7,
-        price:"$11000",
+        price:"$110",
         img_url:"/product4.svg",
-        old_price:"$13000" 
+        old_price:"$130" 
     },
 
     {
         title:"SKINNY FIT JEANS",
         id:8,
-        price:"$14000",
+        price:"$140",
         img_url:"/product3.svg",
-        old_price:"$900000"
+        old_price:"$900"
     },
     
     {
     
         title:"CHECKERED SHIRT",
         id:9,
-        price:"$13000",
+        price:"$130",
         img_url:"/product2.svg"
     },
 ]

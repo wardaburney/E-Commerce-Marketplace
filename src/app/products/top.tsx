@@ -24,7 +24,7 @@ let product:Iporducts[] = [
         id:6,
         price:"$230",
         img_url:"/product6.svg",
-        old_price:"$125000"
+        old_price:"$1250"
     },
     
     {
