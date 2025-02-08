@@ -5,7 +5,7 @@ import { RiArrowDropDownLine } from "react-icons/ri";
 
 const Reviews = [
     {
-      name: "Billie Eilish.",
+      name: "sara.",
       feedback:
         "I'm blown away by the quality and style of the clothes I received from Shop.co. From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”",
       rating: 5,
@@ -14,7 +14,7 @@ const Reviews = [
 
     },
     {
-      name: "Abdul Qadir Rana.",
+      name: "Aisha.",
       feedback:
         "Finding clothes that align with my personal style used to be a challenge until I discovered Shop.co. The range of options they offer is truly remarkable, catering to a variety of tastes and occasions.”",
       rating: 5,
@@ -23,7 +23,7 @@ const Reviews = [
 
     },
     {
-      name: "Hasnain Noman.",
+      name: "Hasnain .",
       feedback:
       "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.",
       rating: 5,
@@ -32,7 +32,7 @@ const Reviews = [
 
     },
     {
-      name: "Michael Jackson.",
+      name: "huzaifa.",
       feedback:
        "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.",
       rating: 5,
@@ -41,7 +41,7 @@ const Reviews = [
 
     },
     {
-      name: "shahrukh Khan.",
+      name: "shahrukh.",
       feedback:
         "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.",
       rating: 5,
@@ -49,7 +49,7 @@ const Reviews = [
       date:"Posted on August 16, 2023"
     },
     {
-      name: " Neha Kakkar.",
+      name: " nadia.",
       feedback:
         "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co. The selection of clothes is not only diverse but also on-point with the latest trends.",
       rating: 5,
